@@ -7,10 +7,11 @@ We are a research team from The Chinese University of Hong Kong, Shenzhen, dedic
 
 Our research interests are broad and include:
 
+- Democratizing large language models;
 - Medical Large Language Models;
 - Math Large Language Models;
 - Reasoning Large Language Models;
-- Unified Multimodal Models for Understanding and Generation
+- Unified Multimodal Models for Understanding and Generation;
 - Multilingual Large Language Models;
 - Agents, Tools, HCI, and RAG in Large Language Models;
 - Evaluation and Understanding of Large Language Models;
