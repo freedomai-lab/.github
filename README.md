@@ -1,1 +1,1 @@
-## Welcome to OpenGVLab!
+## Welcome to FreedomAI Lab!
