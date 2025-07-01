@@ -3,7 +3,7 @@
 
 ## Welcome to FreedomAI! 👋
 
-We are a research team from The Chinese University of Hong Kong, Shenzhen, dedicated to cutting-edge research in the field of Natural Language Processing (NLP). 
+We are a research team from ![Homepage logo](./cuhksz-logo.png) *The Chinese University of Hong Kong, Shenzhen*, dedicated to cutting-edge research in the field of Natural Language Processing (NLP). 
 
 Our research interests are broad and include:
 
@@ -15,7 +15,7 @@ Our research interests are broad and include:
 - Core applications of NLP and `Speech`;
 - LLM Applications in other fields.
 
-We focus on making advanced technologies accessible to society and are committed to building an open and open-source research ecosystem. 
+🚀 We focus on making advanced technologies accessible to society and are committed to building an open and open-source research ecosystem. 
 
 ![](https://github.com/WangRongsheng/CareGPT/blob/main/assets/images/hx.png?raw=true)
 
