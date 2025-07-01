@@ -1,14 +1,7 @@
+![Static Badge](https://img.shields.io/badge/Stars-10.2k-blue?style=social&logo=github)
+![Static Badge](https://img.shields.io/badge/Forks-1.4k-blue?style=social&logo=github)
 
-<!--
-![opengvlab stars](https://img.shields.io/github/stars/opengvlab?style=social)(https://github.com/opengvlab) + [![Alpha-VLLM stars](https://img.shields.io/github/stars/Alpha-VLLM?style=social)](https://github.com/Alpha-VLLM) + [![uni-medical stars](https://img.shields.io/github/stars/uni-medical?style=social)](https://github.com/uni-medical) 
-[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fopengvlab)](https://twitter.com/opengvlab)
--->
-
-
-![Static Badge](https://img.shields.io/badge/Stars-50k-blue?style=social&logo=github)
-[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fopengvlab)](https://twitter.com/opengvlab)
-
-## Welcome to OpenGVLab! 👋
+## Welcome to FreedomAI! 👋
 
 We are a research group from Shanghai AI Lab focused on Vision-Centric AI research. The GV in our name, OpenGVLab, means general vision, a general understanding of vision, so little effort is needed to adapt to new vision-based tasks.
 
