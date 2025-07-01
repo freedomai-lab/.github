@@ -16,4 +16,6 @@ Our research interests are broad and include:
 
 We focus on making advanced technologies accessible to society and are committed to building an open and open-source research ecosystem. 
 
+![](https://github.com/WangRongsheng/CareGPT/blob/main/assets/images/hx.png?raw=true)
+
  Follow us: &nbsp;&nbsp;  ![Homepage logo](./homepage-logo.jpg) [Homepage](https://freedomintelligence.github.io/) &nbsp;&nbsp;🤗[Hugging Face](https://huggingface.co/FreedomIntelligence) &nbsp;&nbsp; ![WeChat logo](./wechat.png) [WeChat]() &nbsp;&nbsp; ![RedNote logo](./xiaohongshu-logo.png) [RedNote](https://www.xiaohongshu.com/user/profile/683e7dcc000000001d009399) &nbsp;&nbsp;
