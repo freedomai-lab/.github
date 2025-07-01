@@ -7,12 +7,15 @@ We are a research team from The Chinese University of Hong Kong, Shenzhen, dedic
 
 Our research interests are broad and include:
 
-- Medical large language models;
-- Multilingual large language models;
-- Agents, Tools, HCI, and RAG in large language models;
-- Evaluation and understanding of large language models;
-- Core applications of NLP and speech;
-- LLM applications in other fields.
+- Medical Large Language Models;
+- Math Large Language Models;
+- Reasoning Large Language Models;
+- Unified Multimodal Models for Understanding and Generation
+- Multilingual Large Language Models;
+- Agents, Tools, HCI, and RAG in Large Language Models;
+- Evaluation and Understanding of Large Language Models;
+- Core applications of NLP and Speech;
+- LLM Applications in other fields.
 
 We focus on making advanced technologies accessible to society and are committed to building an open and open-source research ecosystem. 
 
