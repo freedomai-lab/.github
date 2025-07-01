@@ -1,1 +1,1 @@
-## Welcome to FreedomAI Lab!
+## Welcome to FreedomAI!
